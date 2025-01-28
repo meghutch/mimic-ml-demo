@@ -1,6 +1,6 @@
 ### Introduction
 
-This repository houses a Jupyter-notebook and slideshow to introduce students to clinical research with electronic health records (EHR) using the MIMIC-IV database. The lecture also introduces concepts for training machine learning models using scikit-learn functions*
+This repository houses a Jupyter-notebook and slideshow to introduce students to clinical research with electronic health records (EHR) using the [MIMIC-IV database](https://physionet.org/content/mimiciv/3.1/). The lecture also introduces concepts for training machine learning models using the [scikit-learn](https://scikit-learn.org/stable/) library*
 
 A lecture for Northwestern University's Methods in Biomedical Informatics II Course
 
